@@ -1,0 +1,6 @@
+@TC_5_HostAddress = http://localhost:5260
+
+GET {{TC_5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
