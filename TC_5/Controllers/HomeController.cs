@@ -8,7 +8,7 @@ namespace TC_5.Controllers
     public class HomeController : ControllerBase
     {
 
-        private const string Route = "Pages/main.html";
+        private const string Route = "wwwroot/main.html";
 
         [HttpGet]
         public ActionResult main_page()

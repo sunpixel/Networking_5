@@ -1,11 +1,77 @@
 {
   "Version": 1,
-  "Hash": "PUoFTZ5bs4Z9fFD6p0IUnFNviJxJoeuORuIRC50+lzw=",
+  "Hash": "+rOENjnKn6HkU12w2Y6+Xx7yu78i6DecVQX7DFezP3Y=",
   "Source": "TC_5",
   "BasePath": "_content/TC_5",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "TC_5\\wwwroot",
+      "Source": "TC_5",
+      "ContentRoot": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\",
+      "BasePath": "_content/TC_5",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\main.css",
+      "SourceId": "TC_5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\",
+      "BasePath": "_content/TC_5",
+      "RelativePath": "main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\main.html",
+      "SourceId": "TC_5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\",
+      "BasePath": "_content/TC_5",
+      "RelativePath": "main.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.html"
+    },
+    {
+      "Identity": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\main.js",
+      "SourceId": "TC_5",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\",
+      "BasePath": "_content/TC_5",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    }
+  ]
 }

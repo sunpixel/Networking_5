@@ -96,3 +96,9 @@ C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\obj\Debug\n
 C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\obj\Debug\net8.0\TC_5.pdb
 C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\obj\Debug\net8.0\TC_5.genruntimeconfig.cache
 C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\obj\Debug\net8.0\ref\TC_5.dll
+C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\bin\Debug\net8.0\TC_5.staticwebassets.runtime.json
+C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SunPixel\Desktop\Programming\Repositories\Networking_5\TC_5\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

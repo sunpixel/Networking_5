@@ -3,9 +3,9 @@
     public class Data
     {
 
+        public int Operation { get; set; }
         public double Num1 { get; set; }
         public double Num2 { get; set; }
-        public int Operation { get; set; }
 
         public Data() { }
 

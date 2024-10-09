@@ -38,7 +38,6 @@ document.addEventListener("DOMContentLoaded", () => {
         button.addEventListener("click", () => {
             const currentText = button.innerText;
 
-
             switch (currentText) {
                 case "+":
                     selector(0, " + ");
@@ -70,7 +69,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 case "CoTan":
                     selector(9, " CoTan ");
                     break;
-            };
+            }
         });
     });
 });
@@ -114,41 +113,39 @@ document.getElementById("btn_dot").addEventListener("click", async (e) => {
     }
 });
 
-function selector(val1, val2) {
-    if (operator == null) {
-        operator = val1;
-        alert(operator);
-        screen.innerText += val2;
-        First = false;
-        dataString += val2;
-        if (num1 != null && val1 > 5) {
-            get_result();
-        }
-        else if (num2 != null) {
-            get_result();
-        }
-    }
-}
-
-document.getElementById("btn_clear").addEventListener('click', async (e) => {
+document.getElementById("btn_clear").addEventListener("click", async (e) => {
     e.preventDefault();
 
     num1 = null;
     num2 = null;
     First = true;
-    screen.innerText = '0';
-    dataString = '';
+    operator = null;
+    screen.innerText = "0";
+    dataString = "";
+});
 
-})
+function selector(val1, val2) {
+    if (operator == null) {
+        operator = val1;
+        screen.innerText += val2;
+        First = false;
+        dataString += val2;
+        if (num1 != null && val1 > 5) {
+            get_result();
+        } else if (num2 != null) {
+            get_result();
+        }
+    }
+}
 
 async function get_result() {
-    const response = await fetch("/api/calculate", {
+    const response = await fetch("/api/Recieve/calculate", {
         method: "POST",
         headers: { accept: "application/json", "Content-Type": "application/json" },
         body: JSON.stringify({
-            oprt: parseInt(operator),
-            x: parseFloat(num1),
-            y: parseFloat(num2)
+            Operation: parseInt(operator),
+            Num1: parseFloat(num1),
+            Num2: parseFloat(num2)
         })
     });
 

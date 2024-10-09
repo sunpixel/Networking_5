@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using System.Text.Json;
 using TC_5.src;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+
 
 namespace TC_5.Controllers
 {
@@ -10,10 +12,19 @@ namespace TC_5.Controllers
     public class RecieveController : ControllerBase
     {
 
+        private readonly ILogger<RecieveController> _logger;
+
+        public RecieveController(ILogger<RecieveController> logger)
+        {
+            _logger = logger;
+        }
+
 
         [HttpPost("calculate")]
-        public ActionResult Do_Math(Data dat)
+        public ActionResult Do_Math([FromBody] Data dat)
         {
+            _logger.LogInformation("Received calculation data: {dat}", dat);
+
             MathOperations mat = new();
             Data data = new();
 
@@ -21,12 +32,19 @@ namespace TC_5.Controllers
 
             if (dat != null)
             {
+                _logger.LogInformation(dat.ToString());
                 if (dat.Operation >= 0 && dat.Operation < 10)
                 {
                     x = mat.Perform_Math(dat.Num1, dat.Num2, (MathOperations.Operation)dat.Operation);
 
+                    _logger.LogInformation(x.ToString());
+
+
                     data.Num1 = x;
-                    data.Operation = dat.Operation;
+
+
+/*                    data.Num1 = x;
+                    data.Operation = dat.Operation;*/
 
                     return Ok(data);
                 }
