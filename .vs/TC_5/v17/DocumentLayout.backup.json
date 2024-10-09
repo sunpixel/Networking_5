@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\",
+  "WorkspaceRootPath": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\tc_5\\tc_5\\controllers\\recievecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\networking_5\\tc_5\\controllers\\recievecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|solutionrelative:tc_5\\controllers\\recievecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\tc_5\\tc_5\\src\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|solutionrelative:tc_5\\src\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\tc_5\\tc_5\\src\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\networking_5\\tc_5\\src\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|solutionrelative:tc_5\\src\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\tc_5\\tc_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\networking_5\\tc_5\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|solutionrelative:tc_5\\wwwroot\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\networking_5\\tc_5\\src\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|solutionrelative:tc_5\\src\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|c:\\users\\sunpixel\\desktop\\programming\\repositories\\networking_5\\tc_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A8967A6-67A7-4997-BB47-15E7E6C17A59}|TC_5\\TC_5.csproj|solutionrelative:tc_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,52 +48,71 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RecieveController.cs",
-              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\Controllers\\RecieveController.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\Controllers\\RecieveController.cs",
               "RelativeDocumentMoniker": "TC_5\\Controllers\\RecieveController.cs",
-              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\Controllers\\RecieveController.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\Controllers\\RecieveController.cs",
               "RelativeToolTip": "TC_5\\Controllers\\RecieveController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAlwCIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T07:49:56.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MathOperations.cs",
-              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\src\\MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\src\\MathOperations.cs",
               "RelativeDocumentMoniker": "TC_5\\src\\MathOperations.cs",
-              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\src\\MathOperations.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\src\\MathOperations.cs",
               "RelativeToolTip": "TC_5\\src\\MathOperations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T07:18:07.723Z",
+              "WhenOpened": "2024-10-09T19:32:16.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\src\\Data.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\src\\Data.cs",
               "RelativeDocumentMoniker": "TC_5\\src\\Data.cs",
-              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\src\\Data.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\src\\Data.cs",
               "RelativeToolTip": "TC_5\\src\\Data.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T07:14:43.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\Program.cs",
               "RelativeDocumentMoniker": "TC_5\\Program.cs",
-              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\TC_5\\TC_5\\Program.cs",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\Program.cs",
               "RelativeToolTip": "TC_5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T07:14:03.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\main.js",
+              "RelativeDocumentMoniker": "TC_5\\wwwroot\\main.js",
+              "ToolTip": "C:\\Users\\SunPixel\\Desktop\\Programming\\Repositories\\Networking_5\\TC_5\\wwwroot\\main.js",
+              "RelativeToolTip": "TC_5\\wwwroot\\main.js",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwJMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-09T19:29:57.693Z",
               "EditorCaption": ""
             }
           ]
