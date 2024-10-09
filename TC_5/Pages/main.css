@@ -36,4 +36,10 @@ button {
     }
 
 .numbers {
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
+
+.operators {
+    background-image: linear-gradient(to bottom right, blue, red);
+    font-weight: bold;
 }

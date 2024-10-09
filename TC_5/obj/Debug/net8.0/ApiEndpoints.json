@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "TC_5.Controllers.HomeController",
+    "Method": "main_page",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "TC_5.Controllers.RecieveController",
     "Method": "Do_Math",
     "RelativePath": "api/Recieve/calculate",
